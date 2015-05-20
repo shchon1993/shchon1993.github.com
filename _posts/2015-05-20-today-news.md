@@ -57,7 +57,7 @@ Pipe     | $1
 
 코드
 
-```
+{% Highlight ruby %}
 
 #include <stdio.h>
 
@@ -65,4 +65,4 @@ void main(){
 	printf("test");
 }
 
-```
+{% endHighlight %}
