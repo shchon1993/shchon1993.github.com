@@ -8,13 +8,11 @@ categories: jekyll update
 
 ##작은 제목
 
-#**굵은 글씨1**
+##**굵은 글씨1**
 
-##**굵은 글씨2**
+###**굵은 글씨2**
 
-###**굵은 글씨3**
-
-####**굵은 글씨4**
+####**굵은 글씨3**
 
 *기울여쓰기*
 
@@ -34,16 +32,16 @@ categories: jekyll update
 
 - 목록 안에 목록
 
+> 인용
+
 링크
 
-인라인 링크[네이버](http://naver.com)
+인라인 링크 [네이버](http://naver.com)
 
-참조 링크[네이버] [1]
-
-[1] : http://naver.com
+참조 링크 [네이버] [1]
+[1] : http://naver.com/
 
 이미지
-
 [![] (http://portal.koreatech.ac.kr/images/A/kut/kor/comn/logo2.gif)]
 
 표
@@ -58,14 +56,13 @@ categories: jekyll update
 
 | Dashes           | `-- is en-dash, --- is em-dash` | -- is en-dash, --- is em-dash |
 
+
 코드
 
 ```
-
 #include <stdio.h>
 
 void main(){
 	printf("test");
 }
-
 ```
