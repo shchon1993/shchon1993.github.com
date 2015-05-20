@@ -58,9 +58,11 @@ Pipe     | $1
 코드
 
 ```
+
 #include <stdio.h>
 
 void main(){
 	printf("test");
 }
+
 ```
