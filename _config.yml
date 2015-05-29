@@ -1,14 +1,23 @@
 # Site settings
+<<<<<<< HEAD
+title: Metaphor
+smalltalk: "A simple Blog"
+description: > # My blog Powred by jekyll
+=======
 title: 처음 화면으로 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+>>>>>>> 317fd3b368de5d424da7b525a174e9a4ae8be937
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+paginate: 5
+url: "" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+facebook_username: 
+portfolio_url: 
 
 # Build settings
 markdown: kramdown
