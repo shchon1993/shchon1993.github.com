@@ -8,8 +8,7 @@ categories: jekyll update
 밀란 더비
 =
 
-![](http://upload.wikimedia.org/wikipedia/en/thumb/d/db/AC_Milan.svg/2000px-AC_Milan.svg.png)
-![](http://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Inter_Milan.png/2000px-Inter_Milan.png)
+![](http://imagesearch.naver.com/search.naver?sm=ext&viewloc=1&where=idetail&rev=31&query=%EB%B0%80%EB%9E%80%20%EB%8D%94%EB%B9%84&section=image&res_fr=0&res_to=0&ie=utf8&face=0&color=0&ccl=0&aq=0&spq=0&nx_search_query=%EB%B0%80%EB%9E%80%20%EB%8D%94%EB%B9%84&nx_and_query=&nx_sub_query=&nx_search_hlquery=&nx_search_fasquery=&datetype=0&startdate=0&enddate=0&start=142&img_id=cafe10699343%7C24%7C656236_2)
 ![](http://www.forza27.com/wp-content/uploads/2014/06/Maldini-Ronaldo-2.jpg)
 ![](http://liberofootball.co.uk/wp-content/uploads/2012/10/sulley-ali-muntari-and-david-beckham-in-action-104074.jpg)
 
@@ -23,32 +22,38 @@ categories: jekyll update
 2. 전적
 
 **세리에**
+
 클럽 	|경기 	|승 	|무 	|패 	|득점 	|실점 	|+/-
 --------|-------|-------|-------|-------|-------|-------|----
 인테르 	|181 	|68 	|53 	|60 	|263 	|242 	|+21
 밀란 	|181 	|60 	53 	|68 	|242 	|263 	|-21
 
 **코파 이탈리아**
+
 밀란 	|23 	|9 	|7 	|7 	|32 	|22 	|+10
 --------|-------|-------|-------|-------|-------|-------|----
 인테르 	|23 	|7 	|7 	|9 	|22 	|32 	|-10
 
 **UEFA 챔피언스리그**
+
 밀란 	|4 	|2 	|2 	|0 	|4 	|1 	|+3
 --------|-------|-------|-------|-------|-------|-------|----
 인테르 	|4 	|0 	|2 	|2 	|1 	|4 	|-3
 
 **공식 경기 종합**
+
 인테르 	|211 	|76 	|62 	|73 	|290 	|285 	|+5
 --------|-------|-------|-------|-------|-------|-------|----
 밀란 	|211 	|73 	|62 	|76 	|285 	|290 	|-5
 
 **그 외 친선경기**
+
 밀란 	|83 	|37 	|16 	|30 	|158 	|134 	|+24
 --------|-------|-------|-------|-------|-------|-------|----
 인테르 	|83 	|30 	|16 	|37 	|134 	|158 	|-24
 
 **종합**
+
 밀란 	|294 	|110 	|78 	|106 	|443 	|424 	|+19
 --------|-------|-------|-------|-------|-------|-------|----
 인테르 	|294 	|106 	|78 	|110 	|424 	|443 	|-19
